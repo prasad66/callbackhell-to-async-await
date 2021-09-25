@@ -1,3 +1,7 @@
+var i = 10;
+var time = 1;
+var countdown = document.getElementById("new")
+
 // Async await
 function countNumber(num){
     return new Promise((resolve, reject) => {
